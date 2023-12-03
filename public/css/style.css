@@ -1,0 +1,55 @@
+.monial{
+  margin: 0 10px;
+  padding-top: 30px;
+}
+.monial .description{
+  color: #8b8b8b;
+  line-height: 1.8;
+  position: relative;
+  padding: 10px 0;
+  margin-bottom: 15px;
+}
+.monial .description:before{
+  content: "\f10d";
+  font-family: "Font Awesome 5 Free"; font-weight: 900;
+  color:#c3fff4;
+  position: absolute;
+  top:-35%;
+  left: 0;
+  font-size: 70px;
+  z-index: -1;
+}
+#monial-slider div.owl-item:nth-child(2n) .description:before{
+  color: #ffd0d8;
+}
+#monial-slider div.owl-item:nth-child(3n) .description:before{
+  color: #dae0ff;
+}
+.monial .monial-pic {
+  float: left;
+  width: 80px;
+  height: 80px;
+  margin-right: 20px;
+}
+.monial .monial-pic img{
+  width: 100%;
+  height: auto;
+  border-radius: 50%;
+  border: 2px solid #696969;
+}
+.monial .monial-review{
+  margin:25px 0 0 25px;
+}
+.monial .monial-title{
+  font-size:16px;
+  text-transform:capitalize;
+  font-weight: bold;
+  margin:0;
+}
+.monial .monial-review span{
+  color: #585858;
+  display: block;
+  font-size: 14px;
+  margin-bottom:5px;
+  text-transform: capitalize;
+}
