@@ -85,32 +85,31 @@
           </li>
           <li class="dropdown"><a href="#"><span>Our Approach</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
-              <li><a href="#">Research</a></li>
-              <li><a href="#">Advocacy</a></li>
-              <li><a href="#">Capacity Building</a></li>
-              <li><a href="#">Public Awereness</a></li>
+              <li><a href="{{route('research')}}">Research</a></li>
+              <li><a href="{{route('advocacy')}}">Advocacy</a></li>
+              <li><a href="{{route('capacity')}}">Capacity Building</a></li>
+              <li><a href="{{route('public.awereness')}}">Public Awereness</a></li>
                          
             </ul>
           </li>
           <li class="dropdown"><a href="#"><span>Area of Expertise</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
-              <li><a href="#">Road Safetety</a></li>
-              <li><a href="#">Climate Change</a></li>
-              <li><a href="#">Migration</a></li>
-              <li><a href="#">Public Health</a></li>
+              <li><a href="{{route('road.safety')}}">Road Safety</a></li>
+              <li><a href="{{route('climate_change')}}">Climate Change</a></li>
+              <li><a href="{{route('migration')}}">Migration</a></li>
+              <li><a href="{{route('public.health')}}">Public Health</a></li>
                          
             </ul>
           </li>
-          <li><a class="nav-link scrollto" href="#services">Recent Activities</a></li>
-          <li><a class="nav-link scrollto" href="#team">Publication</a></li>
-          <li><a class="nav-link scrollto" href="#team">Achievement</a></li>
-          <li><a class="nav-link scrollto" href="#team">Our Network</a></li>
+          <li><a class="nav-link scrollto" href="{{route('recent.activities')}}">Recent Activities</a></li>
+          <li><a class="nav-link scrollto" href="{{route('publication')}}">Publication</a></li>
+          <li><a class="nav-link scrollto" href="{{route('achivement')}}">Achievement</a></li>
+          <li><a class="nav-link scrollto" href="{{route('network')}}">Our Network</a></li>
           <li class="dropdown"><a href="#"><span>News & Media</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
-              <li><a href="#">Social Media</a></li>
-              <li><a href="#">Mainstream Media</a></li>
-              <li><a href="#">Electronic Media</a></li>
-              <li><a href="#">Public Health</a></li>
+              <li><a href="{{route('social.media')}}">Social Media</a></li>
+              <li><a href="{{route('mainstream.media')}}">Mainstream Media</a></li>
+              <li><a href="{{route('electronic.media')}}">Electronic Media</a></li>
                          
             </ul>
           </li>

@@ -1,22 +1,16 @@
 @extends('layouts.master')
 
-@section('title', 'about')
+@section('title', 'about_history')
 
 @section('content')
 <section class="page-bg">
-    <div class="container">
-        <div class="row">
-          <div class="col-lg-6 d-flex flex-column justify-content-center pt-4 pt-lg-0 order-2 order-lg-1" data-aos="fade-up" data-aos-delay="200">
-            <h1 class="page-title">About History</h1>
-            <p class="page-desc">Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs.</p>
-            <button class="page-btn"> <a href="">Home</a>  <i class="fas fa-arrow-right"></i> About Us</button>          
-            
-          </div>
-          <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-in" data-aos-delay="200">
-            <img src="assets/img/hero-img.png" class="page-img animated" alt="">
-          </div>
-        </div>
-      </div>
+  <div class="container">
+        <div class="" data-aos="fade-up" data-aos-delay="200">
+          <h1 class="page-title"> About History</h1>
+          <p class="page-desc">Lorem ipsum dolor sit amet conse ctetur adipisicing elit. Qui quaerat fugit quas veniam perferendis repudiandae sequi, dolore quisquam illum.</p>
+          <button class="page-btn"> <a href="{{route('home')}}">Home</a>  <i class="fas fa-arrow-right"></i> History</button>         
+        </div>        
+    </div>
 </section>
    <!-- ======= History Section ======= -->
    <section id="history" class="history">

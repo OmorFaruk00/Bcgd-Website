@@ -21,6 +21,53 @@ class FrontEndController extends Controller
     public function contact(){
         return view('contact');
     }
+    public function recentActivities(){
+        return view('recent-activities');
+    }
+    public function publication(){
+        return view('publication');
+    }
+    public function achivement(){
+        return view('achivement');
+    }
+    public function network(){
+        return view('our-network');
+    }
+    public function research(){
+        return view('research');
+    }
+    public function advocacy(){
+        return view('advocacy');
+    }
+    public function capacityBuilding(){
+        return view('capacity-building');
+    }
+     public function publicAwereness(){
+        return view('public-awereness');
+    }
+    public function roadSefety(){
+        return view('road-sefety');
+    }
+    public function climateChange(){
+        return view('climate-change');
+    }
+    public function migration(){
+        return view('migration');
+    }
+    public function publicHealth(){
+        return view('public-health');
+    }
+
+    public function socialMedia(){
+        return view('social-media');
+    }
+    public function mainstreamMedia(){
+        return view('mainstream-media');
+    }
+    public function electronicMedia(){
+        return view('electronic-media');
+    }
+   
 
     
 }

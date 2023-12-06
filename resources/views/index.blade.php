@@ -8,16 +8,13 @@
     <div class="container" data-aos="zoom-out" data-aos-delay="100">
         <p style="color: #ffc107;font-weight:900">DIGITAL AGENCY THEME 2023</p>
       <h1 class="header-title">We Will Help Your Company Grow Faster</h1>
-      <p class="w-50">Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking overall empowerment.</p>
+      <p class="w-50 ">Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking overall empowerment.</p>
       <div class="d-flex">
-        <a href="#about" class="btn-get-started scrollto">Get Started <i class="fas fa-arrow-right"></i> </a>
-        <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="glightbox btn-watch-video header-icon "><i class="fa fa-phone "></i></a>
-        <p class="pt-2" style="font-weight: 600">(00) 123 456 789</p>
-        
-        
-      </div>
+        <a href="#about" class="btn-get-started scrollto">Get Started <i class="fas fa-arrow-right"></i></a>
+        <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="glightbox btn-watch-video"><i class="bi bi-play-circle"></i><span>(00) 123 456 789</span></a>
+      </div>    
     </div>
-  </section><!-- End Hero -->
+  </section>
 
   <main id="main">
 
@@ -32,14 +29,14 @@
           <div class="col-lg-6" data-aos="fade-right" data-aos-delay="100">
             <img src="assets/img/about.jpg" class="img-fluid" alt="">
           </div>
-          <div class="col-lg-6 pt-4 pt-lg-0 content d-flex flex-column justify-content-center px-5" data-aos="fade-up" data-aos-delay="100">
+          <div class="col-lg-6 col-md-6 col-sm-12 pt-4 pt-lg-0 content d-flex flex-column justify-content-center px-5" data-aos="fade-up" data-aos-delay="100">
             <h6 class="title-section">ABOUT US</h6>
             <h3 style="font-size: 50px;color:#080D41">We are Leading Digital Agency in NewYork</h3>
             <p class="fst-italic w-75">
                 Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional survival strategies to ensure clickthroughs from DevOps.
             </p> 
             <div class="row">
-                <div class="col-lg-5 about-div">
+                <div class="col-lg-5 col-md-5 col-sm-12 about-div">
                    <div class="d-flex p-3">
                     <div>
                         <i class="fas fa-lightbulb squere-icon "></i>
@@ -52,7 +49,7 @@
                     </div>
                    </div>                    
                 </div>
-                <div class="col-lg-5 about-div ml-5">
+                <div class="col-lg-5 col-md-5 col-sm-12 about-div">
                     <div class="d-flex p-3">
                      <div>
                          <i class="fas fa-chart-line squere-icon "></i>
@@ -66,9 +63,9 @@
                     </div>                     
                  </div>
             </div>
-            <div class="w-50 my-5">
-                <a href="#about" class="btn-get-started scrollto">Discover More <i class="fas fa-arrow-right"></i> </a> 
-             </div>  
+            <div class="d-flex mt-4">
+              <a href="#about" class="btn-get-started scrollto">Discover More <i class="fas fa-arrow-right"></i></a>
+            </div>
                              
            
           </div>
@@ -124,7 +121,7 @@
     </section><!-- End Counts Section -->
 
     <!-- ======= Clients Section ======= -->
-    <section id="clients" class="clients section-bg">
+    <section id="clients" class="clients section-bg mb-5">
       <div class="container" data-aos="zoom-in">
 
         <div class="row">
@@ -169,7 +166,7 @@
         </div>
 
         <div class="row">
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in"   data-aos-delay="100">
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mb-5" data-aos="zoom-in"   data-aos-delay="100">
             <div class="icon-box">
                 <div class="d-flex justify-content-between px-4 pt-4">
                     <div class="icon "><i class="bx bxl-dribbble"></i></div>
@@ -186,7 +183,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in"   data-aos-delay="100">
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mb-5" data-aos="zoom-in"   data-aos-delay="100">
             <div class="icon-box">
                 <div class="d-flex justify-content-between px-4 pt-4">
                     <div class="icon "><i class="bx bx-file"></i></div>
@@ -203,7 +200,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in"   data-aos-delay="100">
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mb-5" data-aos="zoom-in"   data-aos-delay="100">
             <div class="icon-box">
                 <div class="d-flex justify-content-between px-4 pt-4">
                     <div class="icon "><i class="bx bx-tachometer"></i></div>
@@ -220,7 +217,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-5" data-aos="zoom-in"   data-aos-delay="100">
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mb-5" data-aos="zoom-in"   data-aos-delay="100">
             <div class="icon-box">
                 <div class="d-flex justify-content-between px-4 pt-4">
                     <div class="icon "><i class="bx bx-world"></i></div>
@@ -237,7 +234,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-5" data-aos="zoom-in"   data-aos-delay="100">
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mb-5" data-aos="zoom-in"   data-aos-delay="100">
             <div class="icon-box">
                 <div class="d-flex justify-content-between px-4 pt-4">
                     <div class="icon "><i class="bx bx-slideshow"></i></div>
@@ -254,7 +251,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-5" data-aos="zoom-in"   data-aos-delay="100">
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mb-5" data-aos="zoom-in"   data-aos-delay="100">
             <div class="icon-box">
                 <div class="d-flex justify-content-between px-4 pt-4">
                     <div class="icon "><i class="bx bx-arch"></i></div>
@@ -279,7 +276,7 @@
       </div>
     </section><!-- End Services Section -->
 
-      <!-- ======= Skills Section ======= -->
+  <!-- ======= Skills Section ======= -->
       <section id="skills" class="skills">
         <div class="container" data-aos="fade-up">
   
@@ -329,7 +326,7 @@
         </div>
       </section><!-- End Skills Section -->
 
-        <!-- ======= benifit Section ======= -->
+       <!-- ======= benifit Section ======= -->
         <section id="skills" class="skills">
             <div class="container" data-aos="fade-up">
       
@@ -368,14 +365,13 @@
       
             </div>
           </section><!-- End Skills Section -->
-
-
+ <!-- ======= Our Project Section ======= -->
           <section id=project>
             <div class="container" >
                 <h6 class="title-section">OUR PROJECT</h6>
                 <div class="d-flex justify-content-between">
                     <h3 class="content-section">Explore Case Studies</h3>
-                    <a href="#" class="btn-get-started scrollto">Get Started <i class="fas fa-arrow-right"></i> </a>
+                    <a href="#" class="btn-get-started scrollto">View All Project <i class="fas fa-arrow-right"></i> </a>
                 </div>
 
                 <div class="row my-5">
@@ -414,7 +410,7 @@
             </div>
 
           </section>
-
+<!-- ======= End Project Section ======= -->
     <!-- ======= Testimonials Section ======= -->
     <section id="testimonials" class="testimonials">
       <div class="container" data-aos="zoom-in">
@@ -432,7 +428,7 @@
 
             <div class="swiper-slide">
                 <div class="row">
-                    <div class="col-lg-4 col-md-4 col-sm-12">
+                    <div class="col-lg-4 col-md-4 col-sm-12 mb-4">
                        <div class="monial-body">
                         <div class="monial">
                             <div class="description">
@@ -448,7 +444,7 @@
                         </div>
                        </div>
                     </div>
-                    <div class="col-lg-4 col-md-4 col-sm-12">
+                    <div class="col-lg-4 col-md-4 col-sm-12 mb-4">
                         <div class="monial-body">
                          <div class="monial">
                              <div class="description">
@@ -464,7 +460,7 @@
                          </div>
                         </div>
                      </div>
-                     <div class="col-lg-4 col-md-4 col-sm-12">
+                     <div class="col-lg-4 col-md-4 col-sm-12 mb-4">
                         <div class="monial-body">
                          <div class="monial">
                              <div class="description">
@@ -486,7 +482,7 @@
 
             <div class="swiper-slide">
                 <div class="row">
-                    <div class="col-lg-4 col-md-4 col-sm-12">
+                    <div class="col-lg-4 col-md-4 col-sm-12 mb-4">
                        <div class="monial-body">
                         <div class="monial">
                             <div class="description">
@@ -502,7 +498,7 @@
                         </div>
                        </div>
                     </div>
-                    <div class="col-lg-4 col-md-4 col-sm-12">
+                    <div class="col-lg-4 col-md-4 col-sm-12 mb-4">
                         <div class="monial-body">
                          <div class="monial">
                              <div class="description">
@@ -518,7 +514,7 @@
                          </div>
                         </div>
                      </div>
-                     <div class="col-lg-4 col-md-4 col-sm-12">
+                     <div class="col-lg-4 col-md-4 col-sm-12 mb-4">
                         <div class="monial-body">
                          <div class="monial">
                              <div class="description">
@@ -556,16 +552,19 @@
     <!-- ======= Team Section ======= -->
     <section id="team" class="team section-bg">
       <div class="container" data-aos="fade-up">
-        <h6 class="title-section">OUR Team</h6>
-                <div class="d-flex justify-content-between mb-5">
-                    <h3 class="content-section">Our Professional Team</h3>
-                    <a href="#" class="btn-get-started scrollto">View All<i class="fas fa-arrow-right"></i> </a>
-                </div>
-
-        
+        <div class="row">
+          <div class="col-lg-9 col-md-6 col-sm-12">
+            <h6 class="title-section">OUR Team</h6>
+            <div class="">
+                <h3 class="content-section">Our Professional Team</h3>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-6 col-sm-12 d-flex justify-content-end mb-5">
+                <a href="#" class="btn-get-started scrollto">View All<i class="fas fa-arrow-right"></i> </a>
+            </div>
+          </div>
 
         <div class="row">
-
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
             <div class="member">
               <div class="member-img">
